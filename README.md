@@ -1,4 +1,4 @@
-## This is a project that involves Sargadelos cermics
+## This is a project that involves [Sargadelos](https://www.sargadelos.com) cermics
 Not much to add at this point
 
 ### Is a strong part of Galician culture legacy
